@@ -1,0 +1,256 @@
+@font-face {
+    font-family: 'Associate Sans';
+    src: url(./AssociateSansLight.otf);
+}
+
+*,*::after,*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+body{
+    font-family:'Associate Sans';
+    background-color: #181818;
+    color: #C2C1C2;
+}
+body h1{
+    margin-left: 150px;
+    margin-top: 150px;
+    font-size: 110px;
+}
+body p{
+    margin-left: 150px;
+    margin-bottom: 80px;
+    font-size: 40px;
+}
+body a{
+    font-size: 50px;
+    color: #ffffff;
+    margin-left: 150px;
+    font-style: bold;
+}
+body .stl{
+    margin-top: 30px;
+}
+
+#marca{
+    margin: 50px 0 0 50px;
+}
+
+#slogan{
+    display: inline-block;
+    margin-top: 150px;
+}
+#slogan p{
+    font-size: 25px;
+    margin-left: 540px;
+}
+#cup{
+    position: absolute;
+    top: 180px;
+    left: 680px;
+    z-index: -1;
+}
+
+#line{
+    margin-top: 150px;
+}
+
+#draconian{
+    display: inline-block;
+    position: relative;
+}
+#draconian h1 {
+    color: #E43F6F;
+}
+#draconian #p1{
+    margin-top: 20px;
+    width: 800px;
+}
+#draconian #p2{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+#draconian #p3{
+    width: 500px;
+}
+#draconian #p4{
+    width: 400px;
+}
+#dragon{
+    position: absolute;
+    margin-top: 150px;
+    z-index: -1;
+    left: 680px;
+}
+
+#mango{
+    display: inline-block;
+    position: relative;
+    text-align: right;
+}
+#mango h1{
+    position: relative;
+    left: 430px;
+    color: #006C67;
+}
+#mango a{
+    position: relative;
+    left: 430px;
+}
+#mango #p1{
+    position: relative;
+    left: 430px;
+    margin-bottom: 0;
+}
+#mango #p2{
+    position: relative;
+    width: 500px;
+    left: 430px;
+}
+#mango #p3{
+    position: relative;
+    width: 510px;
+    left: 430px;
+}
+#mango #p4{
+    position: relative;
+    width: 500px;
+    left: 450px;
+}
+#samurai{
+    position: absolute;
+    margin-top: 150px;
+    z-index: -1;
+    right: 600px;
+}
+
+#enraded{
+    display: inline-block;
+    position: relative;
+    text-align: right;
+}
+#enraged h1{
+    position: relative;
+    color: #7E671A;
+    text-align: center;
+    right: 100px;
+}
+#enraged #p1{
+    position: relative;
+    text-align: right;
+    right: 210px;
+    margin-bottom: 0;
+}
+#enraged #p2{
+    width: 200px;
+    margin-bottom: 0;
+}
+#gorilla{
+    position: relative;
+    left: 250px;
+    bottom: 275px;
+}
+
+#enraged2{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    left: 150px;
+    bottom: 250px;
+}
+#enraged2 h1{
+    position: relative;
+    color: #7E671A;
+    text-align: center;
+    margin-top: 0;
+}
+#enraged2 .p1{
+    width: 850px;
+    margin-bottom: 40px;
+}
+#enraged2 .p2{
+    margin-bottom: 0;
+}
+
+#delivery{
+    display: inline-block;
+    position: relative;
+    text-align: left;
+}
+#delivery h1{
+    color: #E43F6F;
+    margin-bottom: 60px;
+    margin-top: 0;
+}
+#delivery #p2{
+    font-size: 50px;
+}
+#delivery #p3{
+    font-size: 20px;
+    width: 500px;
+}
+
+#about{
+    display: inline-block;
+    position: relative;
+    left: 180px;
+}
+#about h1{
+    color: #006C67;
+    text-align: right;
+}
+#about #p1{
+    width: 800px;
+    text-align: right;
+}
+#about #p2{
+    width: 700px;
+    text-align: right;
+    margin: 0 0 0 250px;
+}
+
+#contact{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    left: 150px;
+}
+#contact h1{
+    color: #7E671A;
+}
+#contact #p1{
+    width: 750px
+}
+
+#instagram{
+    margin-left: 100px;
+}
+#instagram a{
+    color: #E43F6F;
+    position: relative;
+    margin: 0;
+    text-decoration: none;
+    bottom: 50px;
+}
+#ins
+
+#email{
+    margin-left: 150px;
+}
+#email a{
+    color: #006C67;
+    position: relative;
+    margin: 0;
+    text-decoration: none;
+    bottom: 50px;
+}
+#email #gmail{
+    margin-left: 100px;
+}
+
+#msg{
+    text-align: center;
+    margin-top: 30px;
+}
